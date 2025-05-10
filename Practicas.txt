@@ -1,1 +1,3 @@
 practica1 -> Tareas -> 06/05/2025
+practica2 -> Tareas con bdd relacional local -> 08/05/2025
+practica3 -> Tareas con bdd no relacional local -> 09/05/2025
